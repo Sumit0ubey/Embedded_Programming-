@@ -1,0 +1,18 @@
+            Blinking of LED
+
+   Components Used:
+        • Arduino uno
+        • Breadboard
+        • Led
+        • Resistor (300Ω)
+
+
+pin Connection: ---->
+
+ ______________________________  
+|  Arduino       |     Led     |
+_______________________________
+|  pin 13        |    Anode    |
+|ground(digital) |cathode through register|
+________________________________
+      
