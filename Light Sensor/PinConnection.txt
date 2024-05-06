@@ -1,0 +1,19 @@
+              Light Sensitive Sensors 
+
+     Components used:
+          • Arduino uno
+          • Led
+          • Photodiode 
+          • Resistors
+
+pin Connection: --------->
+
+ _________________________________________________
+|     Arduino      |  Photoresistor    |    Led   |
+___________________________________________________
+|      5v          |    Right pin      |          |
+|    Ground        |left pin--> resistor|         |
+|    pin A0        |    Left pin       |          |
+|    pin 9         |                   |   Anode  |
+|   Gnd(digital)   |                   |cathode -> resistor
+———————————————————————————————————————————————————
